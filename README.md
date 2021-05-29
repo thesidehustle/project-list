@@ -10,3 +10,5 @@
   - Swiggy inspired dabba service
 - ### Dhobi
   - UrbanClap inspired dhobi service
+- ### Social Media for trips
+  - Medium + Instagram + Reddit for adventures, road trips, get aways, etc.
